@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-#define gorbeh
+#define gorbeh 1
+#define tale 0
+
+
+
 
 int main()
 {
